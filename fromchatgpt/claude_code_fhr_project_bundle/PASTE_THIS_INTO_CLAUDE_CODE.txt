@@ -1,0 +1,1 @@
+Read `CLAUDE.md` and `prompts/00_start_here.md`, use `paper/chapter2_institutional_background_fhr.md` as the current Chapter 2, and execute the project phase by phase. Reproduce all prior empirical results independently from the raw SSJDA 1331 data, improve the analysis where warranted, and keep all work in English.

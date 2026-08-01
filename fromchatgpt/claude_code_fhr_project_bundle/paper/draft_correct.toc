@@ -1,0 +1,16 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Historical Background: Postwar Institutional Credit in Japan, 1945--1961}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}The Postwar Context: Institutional Innovation Under Credit Constraint}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Institutional Specialization: Design, Function, and Access Barriers}{7}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Welfare Loans: Designed for Sustained Needs}{7}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Public Pawnshops: Designed for Acute Access}{7}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}The Divergence}{8}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}Credit Market Fragmentation and Household Strategies}{8}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Tier 1: Formal Institutional Credit (Rare Access)}{8}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Tier 2: Informal Personal Credit (Moderate Access)}{9}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Tier 3: Consumption Compression (Universal Fallback)}{9}{subsubsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}Household Navigation of Institutional Constraints}{9}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Institutional Design and Targeting}{10}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Implications for Understanding Postwar Institutional Development}{10}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Summary}{11}{subsection.2.7}%

@@ -1,0 +1,17 @@
+{
+  "total_sample": 6152,
+  "complete_cases_analysis": 6131,
+  "welfare_loan_users": 759,
+  "pawnshop_users": 378,
+  "both_institutions": 30,
+  "neither_institutions": 5045,
+  "welfare_only": 729,
+  "pawnshop_only": 348,
+  "welfare_rate": 12.3,
+  "pawnshop_rate": 6.1,
+  "both_rate": 0.5,
+  "welfare_r2": 0.0384,
+  "pawnshop_r2": 0.0262,
+  "direct_comparison_r2": 0.1197,
+  "direct_comparison_n": 1077
+}

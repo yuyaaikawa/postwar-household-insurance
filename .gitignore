@@ -1,0 +1,52 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# LaTeX compilation artifacts
+*.aux
+*.log
+*.out
+*.dvi
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# R files
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Scratch/temp directories
+scratch/
+temp/
+.claude/
+fromchatgpt/claude_code_fhr_project_bundle/CUsers*
+
+# Data files (if very large)
+*.dta
+*.csv
+*.xlsx
+*.xls
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
